@@ -7,7 +7,7 @@ The FLANDERS pipeline enables high throughput examination of neighboring regions
 
 In addition to its .py main file, FLANDERS requires a series of dependencies:
 
-1. The Multigene BLAST directory included in this repository is to be downloaded and extracted into the same directory as flanders.py
+1. The Multigene BLAST directory available at https://drive.google.com/drive/folders/1j_Sdj281jqMjUGwsSlVRCKpJUHz51CbD?usp=sharing is to be downloaded and extracted into the same directory as flanders.py
 2. Install antiSMASH according to instructions at https://docs.antismash.secondarymetabolites.org/install/ (for use with FLANDERS, Bioconda installation is recommended)
 3. Within conda environment created for antiSMASH, install signalP according to instructions at https://services.healthtech.dtu.dk/cgi-bin/sw_request
 4. Within conda environment created for antiSMASH, install ncbi-acc-download:
