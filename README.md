@@ -23,4 +23,4 @@ FLANDERS accepts a list of genome and gene accession numbers in .csv (.txt) form
   (query 2) genome acc, gene acc, gene acc, gene acc, gene acc
   etc.
 
-$flanders_mgbloop.py -i <input file> -o <output parent directory> -r <range of genes upstream and downstream to analyze> -a <perform antismash analysis> -c <threads for antismash computation> -t <taxon for antismash (bacteria or fungi)> -s <perform signalP analysis>
+$flanders_mgbloop.py -i (input file) -o (output parent directory) -r (range of genes upstream and downstream to analyze) -a (perform antismash analysis) -c (threads for antismash computation) -t <taxon for antismash (bacteria or fungi)> -s (perform signalP analysis)
